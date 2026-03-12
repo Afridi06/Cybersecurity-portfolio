@@ -10,7 +10,9 @@ TLS is a cryptographic protocol used to secure communication over the internet. 
 When a user connects to a website using HTTPS, TLS performs a handshake process where cryptographic keys are exchanged securely. After this process, all data sent between the browser and the server is encrypted.
 
 ## Evidence
-The GitHub website shows "Connection is secure", indicating that **TLS encryption** is protecting communication by making it safe.
+The browser shows “Connection is secure” when visiting the GitHub website. 
+This indicates that the website is using HTTPS with a valid TLS certificate. 
+HTTPS relies on TLS encryption to secure communication between the browser and the server.
 
 ## Reflection
 TLS is widely used across modern websites to ensure secure communication and protect sensitive information such as passwords and personal data from attackers. This helps the users from privacy breach.
