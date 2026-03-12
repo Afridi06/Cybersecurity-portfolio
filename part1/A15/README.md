@@ -41,7 +41,7 @@ Unauthorized access to internal IT systems by a threat actor.
 **Impact:**  
 Some company data may have been stolen or destroyed and several internal operations such as billing and delivery processes were disrupted.
 
-![UFP Technologies Cyber Incident](A15_ufp_technologies_incident.png)
+![UFP Technologies Cyber Incident](A15_ufp_technologies_cyber_incident.png)
 
 
 ## Incident 4 – Panera Bread Data Breach (2026)
