@@ -41,7 +41,7 @@ This activity explores different types of locks used in everyday life to secure 
 - Security Concept: Data and Asset Protection
 
 ### 8. Mortise Lock
-- Installed داخل the door structure
+- Installed inside the door structure
 - Strong and durable locking system
 - Security Concept: High-Level Physical Security
 
