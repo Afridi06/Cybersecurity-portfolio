@@ -13,7 +13,7 @@ This activity explores different security concepts implemented on my university 
 - **Security Concept:** Deterrence + Monitoring
 
 📸 Evidence:
-(Add a photo or screenshot here)
+
 
 
 
@@ -23,9 +23,8 @@ This activity explores different security concepts implemented on my university 
 - **Security Concept:** Authentication + Access Control
 
 📸 Evidence:
-(Add photo of card reader or door system)
 
----
+
 
 ### 3. Security Guards
 - **Location:** Main entrances and patrol areas
