@@ -14,7 +14,7 @@ This activity explores cases where a generative AI system (chat GPT) produces in
 Security Concept: AI Hallucination and Misinformation Risk
 
 Evidence:
-![Hallucination Case 1](hallucination.jpg)
+![Hallucination Case 1](hallucination.png)
 
 
 ### 2. Fabricated Research Paper
