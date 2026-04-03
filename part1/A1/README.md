@@ -4,7 +4,6 @@
 This activity explores different security concepts implemented on my university campus. These systems help protect people, assets, and information.
 
 
-
 ## Security Concepts Identified
 
 ### 1. CCTV Surveillance Cameras
@@ -12,9 +11,7 @@ This activity explores different security concepts implemented on my university 
 - **Purpose:** Monitor activity and record incidents
 - **Security Concept:** Deterrence + Monitoring
 
-📸 Evidence:
-
-
+![CCTV cameras on campus](CCTV.png)
 
 
 ### 2. RFID / Student Access Cards
@@ -22,8 +19,7 @@ This activity explores different security concepts implemented on my university 
 - **Purpose:** Only authorized students/staff can enter
 - **Security Concept:** Authentication + Access Control
 
-📸 Evidence:
-
+![Student Access card reader](rfid.png)
 
 
 ### 3. Security Guards
@@ -31,9 +27,7 @@ This activity explores different security concepts implemented on my university 
 - **Purpose:** Respond to incidents and enforce rules
 - **Security Concept:** Physical Security + Incident Response
 
-📸 Evidence:
-
-
+![Security Guards](securityguard.png)
 
 
 ### 4. Secure Wi-Fi (WPA2/WPA3 Enterprise)
@@ -41,9 +35,7 @@ This activity explores different security concepts implemented on my university 
 - **Purpose:** Protect network access using login credentials
 - **Security Concept:** Network Security + Encryption
 
-📸 Evidence:
-
-
+![Wifi security](wifi_security.png)
 
 
 ### 5. Alarm Systems / Emergency Systems
@@ -51,15 +43,11 @@ This activity explores different security concepts implemented on my university 
 - **Purpose:** Alert in case of fire or emergency
 - **Security Concept:** Safety + Incident Detection
 
-📸 Evidence:
-
-
+![Alarm system](Alarm.png)
 
 
 ## Reflection
 The campus uses a combination of physical and digital security mechanisms. These systems work together to ensure safety, prevent unauthorized access and respond to incidents effectively. This demonstrates the importance of layered security (defense in depth).
 
-
-
 ## Conclusion
-Security on campus is implemented through multiple technologies and practices, including surveillance, authentication systems, and network protection. These measures help maintain a safe learning environment.
+Security on campus is implemented through multiple technologies and practices, including surveillance, authentication systems and network protection. These measures help maintain a safe learning environment.
