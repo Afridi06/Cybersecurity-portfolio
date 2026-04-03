@@ -12,7 +12,8 @@ When a user visits a website using HTTPS, the information exchanged between the 
 ## Evidence
 I have given 2 screenshots which clearly show the GitHub website displays **"Connection is secure"**, indicating that HTTPS and TLS encryption are being used to protect communication.
 
-Secure connection evidence - (A9_https_connection_secure.png)
+![Secure connection evidence](A9_https_connection_secure.png)
+![HTTPS GitHub Connection](A9_https_github_connection.png)
 
 ## Reflection
 HTTPS is a fundamental privacy protection mechanism on the internet. It ensures that user data cannot easily be intercepted or modified by attackers, protecting users from threats such as **man-in-the-middle attacks**.
