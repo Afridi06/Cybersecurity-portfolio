@@ -11,7 +11,8 @@ This activity explores security tools that are used online to protect systems da
 - Security Concept: Threat Detection and Prevention
 
 Evidence:
-(Add screenshot or example)
+![Antivirus Protection](antivirus.png)
+
 
 ### 2. Firewall
 - Monitors incoming and outgoing network traffic
@@ -19,7 +20,8 @@ Evidence:
 - Security Concept: Network Security and Access Control
 
 Evidence:
-(Add screenshot or description)
+![Firewall Protection](firewall.png)
+
 
 ### 3. Password Manager
 - Stores and generates strong passwords
@@ -27,23 +29,26 @@ Evidence:
 - Security Concept: Authentication and Credential Management
 
 Evidence:
-(Add screenshot)
+![Password Manager](password_manager.png)
+
 
 ### 4. Virtual Private Network (VPN)
-- Encrypts internet traffic and hides user location
-- Protects privacy on public networks
+- Encrypts internet traffic and hides user IP address
+- Protects user privacy especially on public networks
+- Prevents tracking and data interception
 - Security Concept: Encryption and Privacy Protection
 
 Evidence:
-(Add screenshot)
+![VPN Example](vpn.png)
 
-### 5. Multi-Factor Authentication (MFA)
+
+### 5. Multi Factor Authentication (MFA)
 - Requires more than one form of verification
 - Adds an extra layer of security beyond passwords
 - Security Concept: Strong Authentication
 
 Evidence:
-(Add example or screenshot)
+![MFA Enabled](mfa.png)
 
 ## Reflection
 Online security tools are essential for protecting users and systems from cyber threats. These tools help detect prevent and respond to attacks while also improving privacy and data protection.
