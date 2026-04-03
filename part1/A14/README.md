@@ -54,7 +54,7 @@ Snegha Ramnarayanan, Bedi, B., Mast, G., & Nati Beeri. (2026, March 23). Introdu
 
 
 ![AI Phishing Detection](ai_phishing.png)
-![AI Phishing Detection Additional](ai_phishing1.png)
+![AI Phishing Detection Additional](ai_phishing(1).png)
 
 
 ## Reflection
