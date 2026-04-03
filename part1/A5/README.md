@@ -14,5 +14,8 @@ The browser shows “Connection is secure” when visiting the GitHub website.
 This indicates that the website is using HTTPS with a valid TLS certificate. 
 HTTPS relies on TLS encryption to secure communication between the browser and the server.
 
+![TLS encryption](A5_TLS_encryption.png)
+![TLS_encryption1](TLS_certificate.png)
+
 ## Reflection
 TLS is widely used across modern websites to ensure secure communication and protect sensitive information such as passwords and personal data from attackers. This helps the users from privacy breach.
