@@ -10,7 +10,7 @@ This activity explores security tools that are used online to protect systems da
 - Scans files and removes threats
 - Security Concept: Threat Detection and Prevention
 
-Evidence:
+
 ![Antivirus Protection](antivirus.png)
 
 
@@ -19,7 +19,7 @@ Evidence:
 - Blocks unauthorized access
 - Security Concept: Network Security and Access Control
 
-Evidence:
+
 ![Firewall Protection](firewall.png)
 
 
@@ -28,7 +28,7 @@ Evidence:
 - Helps users avoid weak or repeated passwords
 - Security Concept: Authentication and Credential Management
 
-Evidence:
+
 ![Password Manager](password_manager.png)
 
 
@@ -38,7 +38,7 @@ Evidence:
 - Prevents tracking and data interception
 - Security Concept: Encryption and Privacy Protection
 
-Evidence:
+
 ![VPN Example](vpn.png)
 
 
@@ -47,7 +47,7 @@ Evidence:
 - Adds an extra layer of security beyond passwords
 - Security Concept: Strong Authentication
 
-Evidence:
+
 ![MFA Enabled](mfa.png)
 
 ## Reflection
