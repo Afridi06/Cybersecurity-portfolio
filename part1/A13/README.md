@@ -48,7 +48,7 @@ This activity explores security tools that are used online to protect systems da
 - Security Concept: Strong Authentication
 
 
-![MFA Enabled](mfa.png)
+![MFA Enabled](mfauthentication.png)
 
 ## Reflection
 Online security tools are essential for protecting users and systems from cyber threats. These tools help detect prevent and respond to attacks while also improving privacy and data protection.
