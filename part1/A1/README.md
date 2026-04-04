@@ -14,15 +14,8 @@ This activity explores different security concepts implemented on my university 
 ![CCTV cameras on campus](CCTV.png)
 
 
-### 2. RFID / Student Access Cards
-- **Location:** Lab entrances, library, restricted rooms
-- **Purpose:** Only authorized students/staff can enter
-- **Security Concept:** Authentication + Access Control
 
-![Student Access card reader](rfid.png)
-
-
-### 3. Security Guards
+### 2. Security Guards
 - **Location:** Main entrances and patrol areas
 - **Purpose:** Respond to incidents and enforce rules
 - **Security Concept:** Physical Security + Incident Response
@@ -30,20 +23,12 @@ This activity explores different security concepts implemented on my university 
 ![Security Guards](securityguard.png)
 
 
-### 4. Secure Wi-Fi (WPA2/WPA3 Enterprise)
+### 3. Secure Wi-Fi (WPA2/WPA3 Enterprise)
 - **Location:** Campus-wide network
 - **Purpose:** Protect network access using login credentials
 - **Security Concept:** Network Security + Encryption
 
 ![Wifi security](wifi_security.png)
-
-
-### 5. Alarm Systems / Emergency Systems
-- **Location:** Buildings and emergency exits
-- **Purpose:** Alert in case of fire or emergency
-- **Security Concept:** Safety + Incident Detection
-
-![Alarm system](Alarm.png)
 
 
 ## Reflection
