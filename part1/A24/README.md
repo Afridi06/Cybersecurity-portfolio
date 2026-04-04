@@ -1,7 +1,7 @@
-# A24: Conduct a Cybersecurity Awareness Activity
+# A24: Teach your family about a cybersecurity topic
 
 ## Overview
-This activity involves raising awareness about cybersecurity risks and safe online practices by educating others.
+This activity involves raising awareness about cybersecurity risks and safe practices by educating others.
 
 ## Activity Conducted
 
