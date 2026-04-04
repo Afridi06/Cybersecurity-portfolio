@@ -12,9 +12,7 @@ This activity explores different access control devices used to restrict and man
 - **Function:** Requires a card to unlock doors
 - **Security Concept:** Authentication + Access Control
 
-Evidence:
-
-
+![Card reader](rfid.png)
 
 
 ### 2. Biometric Scanner (Fingerprint / Face ID)
@@ -22,35 +20,29 @@ Evidence:
 - **Function:** Uses unique biological traits for access
 - **Security Concept:** Strong Authentication
 
-Evidence:
+![Biometric](Biometric.png)
 
+### 3. Turnstile Gate
+- **Location:** Train stations, stadiums, metro stations
+- **Function:** Allows entry only after valid ticket or card scan
+- **Security Concept:** Access Control + Authentication
 
-
-
-### 3. PIN Keypad Lock
-- **Location:** Doors, safes
-- **Function:** Requires numeric code to unlock
-- **Security Concept:** Knowledge-based Authentication
-
-Evidence:
-
-
+![Turnstile Gate](turnstile.png)
 
 ### 4. Password-Protected Login System
 - **Location:** Computers, websites
 - **Function:** Requires username + password
 - **Security Concept:** Authentication
 
-Evidence:
+![Password_protection](Password_protection)
 
 
+### 5. Garage Remote Control Gate
+- **Location:** Residential homes, parking areas
+- **Function:** Allows access only when a remote control signal is used
+- **Security Concept:** Access Control + Authentication
 
-### 5. Smart Lock (Mobile App Controlled)
-- **Location:** Homes, Airbnb properties
-- **Function:** Controlled via smartphone
-- **Security Concept:** Remote Access Control + Authentication
-
-Evidence:
+![Garage gate example](Garage_gate.png)
 
 
 
