@@ -25,7 +25,7 @@ This activity involves using an AI detection tool to analyse whether an image wa
 - Security Concept: AI Detection, Digital Content Verification, and Misinformation Prevention
 
 Evidence:
-![AI Generated Image](Picturee.png)
+![AI Generated Image](picturee.png)
 ![AI Detection Result](ai_image_detection.png)
 
 
