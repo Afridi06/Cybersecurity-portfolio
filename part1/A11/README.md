@@ -34,7 +34,7 @@ This activity explores different access control devices used to restrict and man
 - **Function:** Requires username + password
 - **Security Concept:** Authentication
 
-![Password_protection](Password_protection)
+![Password_protection](Password_protection.png)
 
 
 ### 5. Garage Remote Control Gate
