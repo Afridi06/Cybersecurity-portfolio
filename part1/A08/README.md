@@ -1,3 +1,5 @@
+### A08:Discover cryptography used in Internet of Things devices.
+
 ### Encrypted Communication in Bluetooth IoT Devices
 - Internet of Things devices such as wireless earbuds, smart watches and Bluetooth speakers use cryptographic techniques to secure communication with smartphones and other devices
 - During the pairing process devices exchange cryptographic keys and establish a trusted connection using secure protocols such as Bluetooth Secure Simple Pairing (SSP)
