@@ -10,6 +10,7 @@
 Evidence:
 ![Bluetooth Encrypted Connection](iot_device.png)
 
+Even if encryption is not shown explicitly, bluetooth connections use encryption protocols to secure communication between paired devices
 
 ## Reflection
 This example demonstrates how cryptography is embedded in everyday IoT devices to protect communication between systems. Even simple devices such as Bluetooth earphones rely on encryption and authentication to ensure secure data exchange. It highlights the importance of cryptographic protocols in preventing unauthorized access and maintaining privacy in connected environments.
