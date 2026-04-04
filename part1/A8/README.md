@@ -1,56 +1,18 @@
-# A8: Discover Cryptography Used in Internet of Things Devices
-
-## Overview
-This activity explores how cryptography is used in Internet of Things devices to secure communication and protect data.
-
-## Cryptographic Implementations
-
-### 1. Smart Home Device Communication Encryption
-- Devices such as smart lights and smart plugs use encryption when communicating with mobile apps
-- Prevents unauthorized access and control
-- Security Concept: Secure Communication and Encryption
+### Encrypted Communication in Bluetooth IoT Devices
+- Internet of Things devices such as wireless earbuds, smart watches and Bluetooth speakers use cryptographic techniques to secure communication with smartphones and other devices
+- During the pairing process devices exchange cryptographic keys and establish a trusted connection using secure protocols such as Bluetooth Secure Simple Pairing (SSP)
+- Once paired, a shared encryption key is generated which is used to encrypt all data transmitted between the devices
+- The encryption algorithm (such as AES-based encryption used in Bluetooth) ensures that the transmitted data cannot be read or intercepted by unauthorised devices
+- This protects sensitive information such as audio data, device commands and control signals from being accessed by attackers
+- Additionally, authentication mechanisms ensure that only trusted and previously paired devices can reconnect, preventing unauthorized access
+- Security Concept: Encryption, Key Exchange and Secure Communication
 
 Evidence:
-(To be added later)
+![Bluetooth Encrypted Connection](iot_device.png)
 
-
-### 2. Smart Cameras and Surveillance Systems
-- Video data is encrypted before being transmitted or stored
-- Protects sensitive footage from interception
-- Security Concept: Data Confidentiality and Privacy
-
-Evidence:
-(To be added later)
-
-
-### 3. Smart Locks
-- Use encrypted communication between lock and mobile device
-- Ensures only authorized users can unlock doors
-- Security Concept: Authentication and Encryption
-
-Evidence:
-(To be added later)
-
-
-### 4. Firmware Updates with Digital Signatures
-- IoT devices verify updates using cryptographic signatures
-- Prevents installation of malicious software
-- Security Concept: Integrity and Authentication
-
-Evidence:
-(To be added later)
-
-
-### 5. Device Authentication Using Keys or Certificates
-- Devices use cryptographic keys to identify themselves to networks
-- Prevents unauthorized devices from connecting
-- Security Concept: Authentication and Access Control
-
-Evidence:
-(To be added later)
 
 ## Reflection
-Cryptography is essential in IoT devices because they constantly communicate over networks. Without encryption and authentication these devices could be easily compromised.
+This example demonstrates how cryptography is embedded in everyday IoT devices to protect communication between systems. Even simple devices such as Bluetooth earphones rely on encryption and authentication to ensure secure data exchange. It highlights the importance of cryptographic protocols in preventing unauthorized access and maintaining privacy in connected environments.
 
 ## Conclusion
-IoT security relies heavily on cryptographic techniques to protect data ensure device authenticity and prevent unauthorized access.
+Cryptography plays a critical role in securing IoT devices by ensuring that data is encrypted and communication is authenticated. Technologies such as Bluetooth encryption and secure key exchange help protect user data from interception and misuse. As IoT devices continue to grow, the use of strong cryptographic techniques becomes essential for maintaining security and trust.
