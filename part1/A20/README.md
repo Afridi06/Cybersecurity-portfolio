@@ -9,7 +9,7 @@ This activity involves discussing a cybersecurity related event with friends to 
 - The discussion focused on how the attack happened and its impact on users
 
 Evidence:
-(To be added later)
+![Discussion](a20.png)
 
 
 ## Discussion Points
