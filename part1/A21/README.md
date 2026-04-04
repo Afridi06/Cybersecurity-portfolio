@@ -5,47 +5,48 @@ This activity involves participating in an online discussion related to cybersec
 
 ## Platform Used
 
-- I participated in an online cybersecurity discussion on platforms such as Reddit and online forums
-- These platforms allow users to share knowledge ask questions and discuss security issues
+- I participated in an online cybersecurity discussion with a friend through WhatsApp
+- The platform allowed us to communicate and exchange ideas in real time
+- The discussion focused on understanding how cybersecurity systems detect threats
 
 Evidence:
-(To be added later)
+![WhatsApp Discussion](discussion.png)
 
 
 ## Discussion Topic
 
-- The discussion was about common cybersecurity threats such as phishing and malware
-- Users shared experiences and solutions to prevent these attacks
+- The discussion focused on how intrusion detection systems (IDS) identify suspicious activity in a network
+- We explored how these systems monitor traffic and detect potential threats
 
 
 ## Key Points from Discussion
 
-### 1. Phishing Awareness
-- Users discussed how phishing emails are designed to trick people
-- Shared tips on identifying fake messages and avoiding suspicious links
-- Security Concept: Social Engineering Awareness
+### 1. How Intrusion Detection Systems Work
+- We discussed that IDS monitors network traffic continuously
+- It analyses data packets to identify unusual or suspicious patterns
+- Security Concept: Network Monitoring and Threat Detection
 
 
-### 2. Malware Risks
-- Discussion included how malware can infect devices through downloads
-- Emphasized the importance of antivirus and safe browsing
-- Security Concept: Threat Prevention
+### 2. Signature-Based Detection
+- IDS compares network activity with known attack patterns (signatures)
+- Helps detect previously identified threats quickly
+- Security Concept: Signature-Based Detection
 
 
-### 3. Best Security Practices
-- Users recommended using strong passwords and enabling multi factor authentication
-- Highlighted importance of keeping software updated
-- Security Concept: Preventive Security Measures
+### 3. Anomaly-Based Detection
+- IDS identifies unusual behaviour that deviates from normal activity
+- Can detect new or unknown attacks
+- Security Concept: Anomaly Detection
 
 
-### 4. Learning from Community
-- Observing discussions helped me understand real world cybersecurity issues
-- Gained practical knowledge from experienced users
-- Security Concept: Knowledge Sharing
+### 4. Importance of IDS in Cybersecurity
+- Helps detect attacks early before they cause damage
+- Provides alerts to system administrators
+- Security Concept: Intrusion Detection and Response
 
 
 ## Reflection
-Participating in online cybersecurity discussions helped me learn about real threats and solutions from a wider community. It improved my understanding of cybersecurity practices.
+Discussing intrusion detection systems with a friend helped me better understand how cybersecurity tools identify threats in real time. It improved my knowledge of how networks are monitored and protected.
 
 ## Conclusion
-Online discussions are a valuable way to gain knowledge share ideas and stay updated with cybersecurity trends.
+Online discussions are an effective way to learn cybersecurity concepts. Understanding how intrusion detection systems work is important for identifying and preventing cyber attacks.
