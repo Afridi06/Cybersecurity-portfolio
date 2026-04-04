@@ -17,7 +17,7 @@ This activity explores privacy protection techniques used in offline (non-digita
 - **Purpose:** Prevent identity theft and ensure that confidential information cannot be reconstructed or misused
 - **Privacy Concept:** Data Disposal + Confidentiality
 
-![Shredded Img](shred_img)
+![Shredded Img](shred_img.png)
 
 ### 3. Private Conversations in Secured Areas
 - **Description:** Sensitive discussions are conducted in private rooms or closed environments
